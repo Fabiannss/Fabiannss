@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d13,50:1e1b4b,100:6366f1&height=200&section=header&text=Fabiano%20de%20Souza&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Sistemas%20Web,%20SaaS%20%26%20Real-Time%20P2P&descAlignY=58&descSize=17" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d13,50:1e1b4b,100:6366f1&height=200&section=header&text=Fabiano%20de%20Souza&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Desenvolvimento%20Web%20%7C%20Aprendendo%20na%20Pr%C3%A1tica&descAlignY=58&descSize=17" width="100%" alt="Header Banner" />
 
   <p>
     <a href="https://azogstream.vercel.app">
@@ -89,10 +89,10 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias que Estou Aprendendo & Utilizando
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,sqlite,postgres,git,github,vercel&perline=12" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,sqlite,git,github,vercel,vscode&perline=9" alt="Tech Stack" />
 </div>
 
 ---
