@@ -19,7 +19,7 @@
 
 <table width="100%">
   <tr>
-    <td width="65%" valign="top">
+    <td width="55%" valign="top">
       <h3>🎮 <a href="https://github.com/Fabiannss/azogstream">AzogStream</a> — Streaming de Jogos Multi-Telas em Tempo Real</h3>
       <p>
         Plataforma de transmissão de jogos de ultra-baixa latência construída com arquitetura <strong>Mesh P2P (WebRTC)</strong>. Permite que múltiplos amigos transmitam suas telas de <strong>PC</strong> e <strong>PS5 / PSN</strong> simultaneamente em até <strong>1080p/1440p a 60 FPS</strong> com áudio estéreo de alta fidelidade e sem servidores intermediários.
@@ -35,9 +35,9 @@
         <a href="https://github.com/Fabiannss/azogstream"><img src="https://img.shields.io/badge/📂_Ver_Código_Fonte-181d2a?style=for-the-badge&logo=github&logoColor=white" alt="Código Fonte" /></a>
       </p>
     </td>
-    <td width="35%" valign="middle" align="center">
+    <td width="45%" valign="middle" align="center">
       <a href="https://azogstream.vercel.app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabiannss&repo=azogstream&theme=tokyonight&hide_border=true&bg_color=0b0d13&title_color=6366f1&icon_color=10b981&text_color=f3f4f6" width="100%" alt="AzogStream Repo Card" />
+        <img src="https://raw.githubusercontent.com/Fabiannss/azogstream/main/preview.gif" width="100%" alt="Prévia Animada do AzogStream" />
       </a>
       <br/><br/>
       <code>WebRTC</code> • <code>PeerJS</code> • <code>H.264 60FPS</code> • <code>JavaScript ES6+</code> • <code>CSS3</code>
